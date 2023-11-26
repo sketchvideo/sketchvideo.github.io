@@ -1,3 +1,3 @@
 The webpage of our paper: ___Sketch Video Synthesis___.
 
-Code is available at : https://github.com/yudianzheng/sketch-video-synthesis
+Code is available at : https://github.com/yudianzheng/SketchVideo
